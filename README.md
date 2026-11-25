@@ -1,10 +1,10 @@
 # office-laugh
 
-[![make.fun · u-rama-melon-make-the-ai-judge-laugh-302d0825](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825?utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)
-[![rank](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/nmlyz/office-laugh/rank.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)
-[![reward](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/nmlyz/office-laugh/reward.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825?utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)
+[![make.fun · u-alfasurya91-make-the-ai-judge-laugh-6ed40225](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
+[![rank](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/nmlyz/office-laugh/rank.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
+[![reward](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/nmlyz/office-laugh/reward.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
 
-office-laugh writes one line to a text file: an original joke about office life, built on a true observation and closed on its strongest beat. The line was picked from 40 candidates by pairwise judging against the brief — the office fridge, a yogurt labelled with a name and a date, and a last sentence that turns fridge hygiene into meeting culture. The joke is 170 characters, a single line, and reads cleanly aloud in one breath.
+office-laugh writes one line to a text file: an original joke about office life, built on a true observation and closed on its strongest beat. The line was picked from 56 candidates by pairwise judging against the brief — a calendar block called "Focus Time", booked over by a meeting named after the very thing it destroys. The joke is 115 characters, a single line, and reads cleanly aloud in one breath.
 
 ## Run it
 
@@ -16,4 +16,4 @@ It writes the line to `/output/entry.txt` (or `$MAKEFUN_OUTPUT_DIR/entry.txt`). 
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=23ae7fx0&utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)</sub>
+<sub>See the line on [make.fun](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225)</sub>

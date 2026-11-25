@@ -1,19 +1,19 @@
 """Write one original one-line joke about office life to /output/entry.txt.
 
-The line was picked from 40 candidates by pairwise judging against the
-published judge brief: a true observation (the office fridge), a surprising
-turn (the last sentence reframes fridge hygiene as meeting culture), tight
-(one line, no wasted setup), and original (specific names and dates, no
-stock office joke). Standard library only; the same text, byte for byte,
-on every run.
+The line was picked from 56 candidates by pairwise judging against the
+published judge brief: a true observation (a Focus Time block booked over),
+a surprising turn (the meeting is named after the very thing it destroys),
+tight (one line, no wasted setup), and original (not a known line, no
+noun-swapped familiar joke). The entry is 115 characters, a single line
+that reads cleanly aloud in one breath. Standard library only; the same
+text, byte for byte, on every run.
 """
 
 import os
 
 ENTRY = (
-    "The office fridge has a yogurt labeled 'Steve, March 2023.' "
-    "Steve left in 2022. Nobody will throw it away, because that would be "
-    "a decision, and decisions need a meeting."
+    "I set a calendar block called 'Focus Time' and my boss booked over "
+    "it with a meeting called 'Focus Time Follow-Up.'"
 )
 
 
